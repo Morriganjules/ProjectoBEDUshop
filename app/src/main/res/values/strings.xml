@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">projectF</string>
+    <string name="app_name2">Bedu shop</string>
+    <string name="login">Iniciar sesion</string>
+    <string name="register">Registrate aqui</string>
+    <string name="password">Contraseña</string>
+    <string name="email">Correo electronico</string>
+    <string name="newP">Registrate</string>
+    <string name="separador">---- O ----</string>
+    <string name="nombre">Nombre completo</string>
+    <string name="tel">Telefono</string>
+    <string name="reg">Registrarse</string>
+    <string name="registrate">Registrate</string>
+    <string name="inicio">Inicio</string>
+    <string name="carrito">Carrito</string>
+    <string name="perfil">Perfil</string>
+    <string name="accept">Bienvenido de vuelta!! :D</string>
+    <string name="terminos">Acepto los terminos y condiciones.</string>
+    <string name="prod">Productos cerca de ti.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.BEDU" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+    <item name = "android:windowActionBar">false</item>
+    <item name = "android:windowNoTitle">true</item>
+    </style>
+
+
+
+    <style name="Bedu.HintText" parent="TextAppearance.MaterialComponents.Subtitle2">
+        <item name="android:textColor">?android:attr/textColorPrimary</item>
+    </style>
+    <style name="Bedu.TextInputLayout" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <item name="hintTextAppearance">@style/Bedu.HintText</item>
+        <item name="hintTextColor">?attr/colorAccent</item>
+        <item name="android:textColorHint">?attr/colorPrimaryDark</item>
+        <item name="android:paddingBottom">8dp</item>
+        <item name="boxStrokeColor">?attr/colorAccent</item>
+    </style>
+
+
+</resources>
